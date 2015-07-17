@@ -1,0 +1,13 @@
+{
+	"jsonpaths": [
+		"$['km_timestamp']",
+		"$['event']",
+		"$['user_email']",		
+		"$['user_km_id']",
+		"$['event_timedate']",
+		"$['referrer']",
+		"$['url']",
+		"$['user_agent']",
+		"$['filename']"		
+	]
+}
