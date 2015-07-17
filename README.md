@@ -1,0 +1,2 @@
+# raven-aws-emr-kissmetrics-mapreduce-parser-redshift
+This project allows you to transform and enrich a massive number of KISSmetrics JSON files into a suitable format that can be directly imported into Redshift. To scale linearly, it uses a YARN MapReduce job that runs on an Amazon Web Services (AWS) Elastic MapReduce (EMR) cluster. The MapReduce source code, detailed steps, and lessons learnt from our experience of processing with billions of KISSmetrics web events are provided here.
